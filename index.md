@@ -345,6 +345,12 @@ https://jupyterlite.github.io/demo/
 
 ---
 
+# 🎓 Feedback on the use in education
+
+TODO
+
+---
+
 # ⌛ Reproducibility time capsule
 
 - WebAssembly is a web standard
