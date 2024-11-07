@@ -304,10 +304,10 @@ https://github.com/rowanc1/myst-lite
 
 # :test_tube: Current developments
 
-- In-browser terminal
-- AI code completions and chat
-- Real Time Collaboration via WebRTC
-- Emscripten Forge and Conda Forge
+- In-browser terminal (Ian Thomas)
+- AI code completions and chat (Nicolas Brichet)
+- Real Time Collaboration via WebRTC (David Brochart)
+- Emscripten Forge and Conda Forge (Thorsten Beied, Isabel Paredes, Anutosh Bhat)
 
 ---
 
