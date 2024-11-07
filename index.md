@@ -259,7 +259,7 @@ Served via well-cacheable, static HTTP(S) on most static web hosts
 ---
 
 <iframe
-  src="https://jtp.io/gt-notebook-2024/lite/repl/index.html?kernel=python&toolbar=1&code=%pip%20install%20-q%20%22ipymolstar==0.0.5%22%20%22anywidget==0.9.2%22&code=from%20ipymolstar%20import%20PDBeMolstar&code=view%20=%20PDBeMolstar(%20molecule_id=%221qyn%22,%20theme=%22light%22,%20hide_water=True,%20visual_style=%22cartoon%22,%20)"
+  src="https://jtp.io/gt-notebook-2024/lite/repl/index.html?kernel=python&toolbar=1"
   width="100%"
   height="500px"
 >
