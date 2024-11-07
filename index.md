@@ -122,7 +122,7 @@ https://jtp.io/gt-notebook-2024
 # JupyterLite: quick history
 
 - Started in 2021 as the p5 notebook, a minimal notebook UI based on JupyterLab components
-- May 2021: integration with 2021
+- May 2021: integration with Pyodide
 - Developed by JupyterLab contributors (QuantStack, Nicholas Bollweg)
 - Partially funded (thanks Bloomberg)
 - Progressive integration in JupyterLab?
