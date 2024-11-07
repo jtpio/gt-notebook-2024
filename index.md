@@ -307,7 +307,8 @@ https://github.com/rowanc1/myst-lite
 - In-browser terminal (Ian Thomas)
 - AI code completions and chat (Nicolas Brichet)
 - Real Time Collaboration via WebRTC (David Brochart)
-- Emscripten Forge and Conda Forge (Thorsten Beied, Isabel Paredes, Anutosh Bhat)
+- Emscripten Forge and Conda Forge (Thorsten Beier, Isabel Paredes, Anutosh Bhat)
+- Xeus-R (Isabel Paredes, Anutosh Bhat)
 
 ---
 
