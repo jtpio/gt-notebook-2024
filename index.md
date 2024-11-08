@@ -314,7 +314,9 @@ https://github.com/rowanc1/myst-lite
 
 # :sparkles: Demo :sparkles:
 
-TODO
+- Terminal: https://jupyterlite-terminal.vercel.app/
+- RTC (other WebRTC): https://davidbrochart.github.io/jupyter-shared-drive
+- AI code completions and chat: https://jupyterlite.github.io/jupyterlab-codestral/
 
 ---
 
