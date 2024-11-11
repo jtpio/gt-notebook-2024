@@ -350,6 +350,8 @@ https://jupyterlite.github.io/demo/
 
 # 🎓 Feedback on the use in education
 
+Pierre Poulain, Université Paris Cité
+
 ## Context
 
 Introductory Bioinformatics course:
