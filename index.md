@@ -2,7 +2,6 @@
 marp: true
 theme: default
 paginate: true
-footer: ![height:20px](img/twitter.svg) ![height:20px](img/github.svg) @jtpio @QuantStack
 style: |
   .columns {
     display: grid;
@@ -460,6 +459,36 @@ Septembre 2025, new course of simulation in biology (Python):
 - Runnable for much longer than native binary packages
 
 ![center h:300](https://github.com/jtpio/jobim-2024/assets/591645/4686d0f6-8c4a-4195-8420-74a71ff0b510)
+
+---
+
+# :arrow_down: Download the archive
+
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/user-attachments/assets/4c2e684c-6c97-4c63-9f9b-d676c4bc2905">
+</video>
+
+
+---
+
+# :card_index_dividers: Serve the files
+
+
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/user-attachments/assets/71613b69-9584-4493-9235-4f46db5c2855">
+</video>
+
+---
+
+# :crystal_ball: Future next steps
+
+- Export a self-contained JupyterLite site from JupyterLite itself?
 
 ---
 
