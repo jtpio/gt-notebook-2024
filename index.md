@@ -27,11 +27,15 @@ img[alt~="center"] {
 
 ## Journées du GT notebook 2024
 
-### Jérémy Tuloup
+- Jérémy Tuloup
+- Pierre Poulain
 
-https://jtp.io/gt-notebook-2024
+https://jtpio.github.io/gt-notebook-2024
 
 ---
+
+<div class="columns">
+<div>
 
 # Jérémy Tuloup
 
@@ -40,6 +44,16 @@ https://jtp.io/gt-notebook-2024
 - Jupyter Frontends SSC (Steering Software Council) representative
 - Contributor and maintainer of many Jupyter projects
 - JupyterLite creator
+
+</div>
+<div>
+
+# Pierre Poulain
+
+- TODO
+
+</div>
+</div>
 
 ---
 
@@ -332,6 +346,30 @@ https://github.com/rowanc1/myst-lite
 
 ---
 
+# :desktop_computer: Terminal
+
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://raw.githubusercontent.com/jtpio/pydata-paris-2024-jupyterlite-xeus/main/img/terminal.m4v">
+</video>
+
+---
+
+# :busts_in_silhouette: Real Time Collaboration
+
+
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/user-attachments/assets/ab03433c-2ac2-4856-8e83-b5cc17ed3f6f">
+
+</video>
+
+---
+
 # :rocket: Deploy to GitHub Pages
 
 - https://github.com/jupyterlite/demo
@@ -387,19 +425,19 @@ Source code : https://github.com/pierrepo/intro-bioinfo-python-2024
 
 Website (GitHub pages) : https://pierrepo.github.io/intro-bioinfo-python-2024/lab/index.html
 
---- 
+---
 
 ## Student feedback 1/3
 
 ![center](img/student_feedback_1.png)
 
---- 
+---
 
 ## Student feedback 2/3
 
 ![center](img/student_feedback_2.png)
 
---- 
+---
 
 ## Student feedback 3/3
 
