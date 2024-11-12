@@ -385,6 +385,28 @@ https://jupyterlite.github.io/demo/
 
 ---
 
+# :rocket: GitLab Pages
+
+- https://jupyterlite.readthedocs.io/en/stable/howto/deployment/gitlab.html
+- `.gitlab-ci.yaml`:
+
+```yaml
+image: python
+pages:
+  stage: deploy
+  before_script:
+    - python -m pip install jupyterlite-core jupyterlite-pyodide-kernel
+  script:
+    - jupyter lite build --contents content --output-dir public
+  artifacts:
+    paths:
+      - public # mandatory, other folder won't work
+  only:
+    - main # the branch you want to publish
+```
+
+---
+
 # 🎓 Feedback on the use in education
 
 Pierre Poulain, Université Paris Cité
