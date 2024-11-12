@@ -49,7 +49,9 @@ https://jtpio.github.io/gt-notebook-2024
 
 # Pierre Poulain
 
-- TODO
+- Associate professor in Bioinformatics at [Université Paris Cité](https://u-paris.fr/)
+- Researcher at the [Laboratory of Theoretical Biochemistry](http://www-lbt.ibpc.fr/) / CNRS
+- [Software Heritage](https://www.softwareheritage.org/) ambassador
 
 </div>
 </div>
@@ -409,7 +411,6 @@ pages:
 
 # 🎓 Feedback on the use in education
 
-Pierre Poulain, Université Paris Cité
 
 ## Context
 
