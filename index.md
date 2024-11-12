@@ -371,44 +371,6 @@ https://github.com/rowanc1/myst-lite
 
 ---
 
-# :rocket: Deploy to GitHub Pages
-
-- https://github.com/jupyterlite/demo
-
-![center height:400px](https://raw.githubusercontent.com/jupyterlite/xeus-python-demo/main/deploy.gif)
-
-
----
-
-https://jupyterlite.github.io/demo/
-
-
-![](https://github.com/jtpio/alposs-2024/assets/591645/9e19fcea-4f17-4bd4-a83a-9eb548bd9968)
-
----
-
-# :rocket: GitLab Pages
-
-- https://jupyterlite.readthedocs.io/en/stable/howto/deployment/gitlab.html
-- `.gitlab-ci.yaml`:
-
-```yaml
-image: python
-pages:
-  stage: deploy
-  before_script:
-    - python -m pip install jupyterlite-core jupyterlite-pyodide-kernel
-  script:
-    - jupyter lite build --contents content --output-dir public
-  artifacts:
-    paths:
-      - public # mandatory, other folder won't work
-  only:
-    - main # the branch you want to publish
-```
-
----
-
 # 🎓 Feedback on the use in education
 
 
@@ -475,6 +437,45 @@ Septembre 2025, new course of simulation in biology (Python):
 - 150 third-year students
 
 ---
+
+# :rocket: Deploy to GitHub Pages
+
+- https://github.com/jupyterlite/demo
+
+![center height:400px](https://raw.githubusercontent.com/jupyterlite/xeus-python-demo/main/deploy.gif)
+
+
+---
+
+https://jupyterlite.github.io/demo/
+
+
+![](https://github.com/jtpio/alposs-2024/assets/591645/9e19fcea-4f17-4bd4-a83a-9eb548bd9968)
+
+---
+
+# :rocket: GitLab Pages
+
+- https://jupyterlite.readthedocs.io/en/stable/howto/deployment/gitlab.html
+- `.gitlab-ci.yaml`:
+
+```yaml
+image: python
+pages:
+  stage: deploy
+  before_script:
+    - python -m pip install jupyterlite-core jupyterlite-pyodide-kernel
+  script:
+    - jupyter lite build --contents content --output-dir public
+  artifacts:
+    paths:
+      - public # mandatory, other folder won't work
+  only:
+    - main # the branch you want to publish
+```
+
+---
+
 
 # ⌛ Reproducibility time capsule
 
