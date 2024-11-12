@@ -346,7 +346,7 @@ https://github.com/rowanc1/myst-lite
 
 ---
 
-# Terminal
+# :desktop_computer: Terminal
 
 <video
   controls
