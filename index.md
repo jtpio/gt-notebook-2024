@@ -350,7 +350,69 @@ https://jupyterlite.github.io/demo/
 
 # 🎓 Feedback on the use in education
 
-TODO
+Pierre Poulain, Université Paris Cité
+
+## Context
+
+Introductory Bioinformatics course:
+
+- 40-45 first-year students (biology/chemistry)
+- Introduction to Python programming (2 x 2-hour practical sessions)
+
+Choice of Jupyter notebooks for interactivity and literate programming
+
+Challenges in software installation in computer labs
+
+---
+
+## 💻 IT Solutions
+
+Historically: MyBinder
+
+- Quite slow: takes several minutes to rebuild a (Docker) image (upon each commit)
+- Free computing resources, not always available
+
+Since 2023: JupyterLite
+
+- Easy to deploy (GitHub → GitHub Pages)
+- No installation required for students
+- Works everywhere (university, library, home)
+- Interactive quizzes since 2024 (https://github.com/jmshea/jupyterquiz)
+
+---
+
+## Demo 🚀
+
+Source code : https://github.com/pierrepo/intro-bioinfo-python-2024
+
+Website (GitHub pages) : https://pierrepo.github.io/intro-bioinfo-python-2024/lab/index.html
+
+--- 
+
+## Student feedback 1/3
+
+![center](img/student_feedback_1.png)
+
+--- 
+
+## Student feedback 2/3
+
+![center](img/student_feedback_2.png)
+
+--- 
+
+## Student feedback 3/3
+
+![center](img/student_feedback_3.png)
+
+---
+
+## Next steps
+
+Septembre 2025, new course of simulation in biology (Python):
+
+- 250 second-year students
+- 150 third-year students
 
 ---
 
