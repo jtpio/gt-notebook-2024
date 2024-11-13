@@ -477,7 +477,7 @@ pages:
 ---
 
 
-# ⌛ Reproducibility time capsule
+# ⌛ Towards a reproducible time capsule?
 
 - WebAssembly is a web standard
 - Runnable for much longer than native binary packages
